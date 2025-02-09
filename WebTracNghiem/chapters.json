@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Phần 1",
+        "isActive": "true",
+        "quizFile": "chapter1.json"
+    },
+    {
+        "name": "Phần 2",
+        "isActive": "true",
+        "quizFile": "chapter2.json"
+    }
+]
